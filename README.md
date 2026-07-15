@@ -4,7 +4,7 @@
 
 ### QA Engineer | Quality Assurance | JavaScript | Playwright
 
-Portfólio de projetos em Quality Assurance, documentação de testes e automação.
+Este repositório reúne meus principais projetos em Quality Assurance, com foco em testes manuais, automação e estudos relacionados à qualidade de software.
 
 </div>
 
