@@ -58,7 +58,7 @@ Documentação de testes para um e-commerce, incluindo:
 
 <br>
 
-<a href="https://github.com/SEU-USUARIO/saucedemo-qa">
+<a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual">
     <img src="https://img.shields.io/badge/Acessar%20Projeto-6B8E5E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
