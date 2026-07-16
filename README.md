@@ -2,7 +2,7 @@
 
 # Renato Guedes
 
-### QA Analist | Quality Assurance | Testes Manuais | JavaScript | Playwright | Automação
+### QA Analyst | Quality Assurance | Testes Manuais | Automação de Testes | JavaScript | Playwright 
 
 Este repositório reúne meus principais projetos em Quality Assurance, com foco em testes manuais, automação e estudos relacionados à qualidade de software.
 
@@ -10,9 +10,6 @@ Este repositório reúne meus principais projetos em Quality Assurance, com foco
 
 <br>
 <p align="center">
-  <a href="https://github.com/renatoguedes-qa/sauce-demo-teste-manual">
-    <img src="https://img.shields.io/badge/Projetos-6B8E5E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="./curriculo-renato-guedes.pdf">
     <img src="https://img.shields.io/badge/Currículo-6B8E5E?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
