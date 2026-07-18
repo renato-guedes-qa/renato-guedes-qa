@@ -88,6 +88,6 @@ Projeto voltado para testes de APIs REST, documentação e automação.
 
 <div align="center">
 
-🌿 Quality Assurance • Testes • Automação
+ Quality Assurance • Testes • Automação
 
 </div>
