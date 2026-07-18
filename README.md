@@ -43,7 +43,7 @@ Este repositório reúne meus principais projetos em Quality Assurance, com foco
 <table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 ### 🛒 SauceDemo QA
 
@@ -59,7 +59,7 @@ Documentação de testes para um e-commerce, incluindo:
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 ### 🎭 Playwright
 
@@ -71,7 +71,7 @@ Projeto dedicado à automação de testes End-to-End utilizando Playwright.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 ### 🔌 API Testing
 
