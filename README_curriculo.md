@@ -3,7 +3,7 @@
 # RENATO GUEDES
 ### Analista de QA Júnior
 
-![Localização](https://img.shields.io/badge/📍-S%C3%A3o_Paulo%2C_SP-0B1D16?style=flat-square)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--guedes--qa-1F3A2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-guedes-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-renato--guedes--qa-1F3A2F?style=flat-square&logo=github&logoColor=white)](https://github.com/renato-guedes-qa)
 
